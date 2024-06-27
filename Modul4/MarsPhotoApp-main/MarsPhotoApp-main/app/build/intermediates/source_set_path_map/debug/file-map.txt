@@ -1,0 +1,53 @@
+com.example.android.marsphotos.app-lifecycle-livedata-2.4.0-0 C:\Users\GAMING 3i\.gradle\caches\transforms-3\10e517918180460aa00e5d39c867377e\transformed\lifecycle-livedata-2.4.0\res
+com.example.android.marsphotos.app-jetified-annotation-experimental-1.3.0-1 C:\Users\GAMING 3i\.gradle\caches\transforms-3\1224b443fa637588e1d5cbf050307139\transformed\jetified-annotation-experimental-1.3.0\res
+com.example.android.marsphotos.app-jetified-lifecycle-runtime-ktx-2.5.1-2 C:\Users\GAMING 3i\.gradle\caches\transforms-3\151ebb1ee3996d3e050fd434ffe65048\transformed\jetified-lifecycle-runtime-ktx-2.5.1\res
+com.example.android.marsphotos.app-jetified-viewpager2-1.0.0-3 C:\Users\GAMING 3i\.gradle\caches\transforms-3\1649829a59b9152452180ab0a396852f\transformed\jetified-viewpager2-1.0.0\res
+com.example.android.marsphotos.app-lifecycle-runtime-2.5.1-4 C:\Users\GAMING 3i\.gradle\caches\transforms-3\1aa5f4877e22b9151e45402b96992865\transformed\lifecycle-runtime-2.5.1\res
+com.example.android.marsphotos.app-transition-1.4.1-5 C:\Users\GAMING 3i\.gradle\caches\transforms-3\2ba7368504ce1b8e8817062b4f8701c3\transformed\transition-1.4.1\res
+com.example.android.marsphotos.app-jetified-emoji2-1.2.0-6 C:\Users\GAMING 3i\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\res
+com.example.android.marsphotos.app-navigation-fragment-2.5.3-7 C:\Users\GAMING 3i\.gradle\caches\transforms-3\387d42200b1c0e37fe60fb82c19e63b8\transformed\navigation-fragment-2.5.3\res
+com.example.android.marsphotos.app-lifecycle-viewmodel-2.5.1-8 C:\Users\GAMING 3i\.gradle\caches\transforms-3\38eb41396c885a3c5235d8b3e86bcc13\transformed\lifecycle-viewmodel-2.5.1\res
+com.example.android.marsphotos.app-jetified-coil-base-2.2.2-9 C:\Users\GAMING 3i\.gradle\caches\transforms-3\4487626520e1b496ba43aca4367a978b\transformed\jetified-coil-base-2.2.2\res
+com.example.android.marsphotos.app-jetified-activity-ktx-1.5.1-10 C:\Users\GAMING 3i\.gradle\caches\transforms-3\460cf821fea4851eded8ec39eab748b0\transformed\jetified-activity-ktx-1.5.1\res
+com.example.android.marsphotos.app-core-1.9.0-11 C:\Users\GAMING 3i\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\res
+com.example.android.marsphotos.app-jetified-lifecycle-livedata-core-ktx-2.5.1-12 C:\Users\GAMING 3i\.gradle\caches\transforms-3\47f56729ed829b0c50a19c018b9ecfcb\transformed\jetified-lifecycle-livedata-core-ktx-2.5.1\res
+com.example.android.marsphotos.app-jetified-lifecycle-service-2.4.0-13 C:\Users\GAMING 3i\.gradle\caches\transforms-3\483b6e168f1aebe55b69fd78bfbec441\transformed\jetified-lifecycle-service-2.4.0\res
+com.example.android.marsphotos.app-jetified-activity-1.5.1-14 C:\Users\GAMING 3i\.gradle\caches\transforms-3\4eba56c61a01101a348e4dfb3f046f38\transformed\jetified-activity-1.5.1\res
+com.example.android.marsphotos.app-lifecycle-livedata-core-2.5.1-15 C:\Users\GAMING 3i\.gradle\caches\transforms-3\61bcd45c38c062d4ae56d2cc7ab2af3a\transformed\lifecycle-livedata-core-2.5.1\res
+com.example.android.marsphotos.app-jetified-startup-runtime-1.1.1-16 C:\Users\GAMING 3i\.gradle\caches\transforms-3\61e442695d0c61fb8607c1f212a4cdf1\transformed\jetified-startup-runtime-1.1.1\res
+com.example.android.marsphotos.app-navigation-fragment-ktx-2.5.3-17 C:\Users\GAMING 3i\.gradle\caches\transforms-3\64dfd023a1aaeff299f37b8e505f8405\transformed\navigation-fragment-ktx-2.5.3\res
+com.example.android.marsphotos.app-material-1.7.0-18 C:\Users\GAMING 3i\.gradle\caches\transforms-3\69c281fe64dfc435eb346c509a4d7488\transformed\material-1.7.0\res
+com.example.android.marsphotos.app-jetified-lifecycle-process-2.4.1-19 C:\Users\GAMING 3i\.gradle\caches\transforms-3\70dd18b03bc3475eadf519cfcc165fd3\transformed\jetified-lifecycle-process-2.4.1\res
+com.example.android.marsphotos.app-jetified-lifecycle-viewmodel-ktx-2.5.1-20 C:\Users\GAMING 3i\.gradle\caches\transforms-3\797f87b3f581c7f57595c99d3cd801f9\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\res
+com.example.android.marsphotos.app-navigation-ui-2.5.3-21 C:\Users\GAMING 3i\.gradle\caches\transforms-3\7cabf8cb874b051a9dd96ace05daf765\transformed\navigation-ui-2.5.3\res
+com.example.android.marsphotos.app-jetified-appcompat-resources-1.5.1-22 C:\Users\GAMING 3i\.gradle\caches\transforms-3\8374120fa7f25b28391962ca84225800\transformed\jetified-appcompat-resources-1.5.1\res
+com.example.android.marsphotos.app-constraintlayout-2.1.4-23 C:\Users\GAMING 3i\.gradle\caches\transforms-3\875fc1e254ca9f758297c6afc1d04e0b\transformed\constraintlayout-2.1.4\res
+com.example.android.marsphotos.app-jetified-core-ktx-1.9.0-24 C:\Users\GAMING 3i\.gradle\caches\transforms-3\926802c0e3417d244ba2405d78b4565c\transformed\jetified-core-ktx-1.9.0\res
+com.example.android.marsphotos.app-fragment-1.5.4-25 C:\Users\GAMING 3i\.gradle\caches\transforms-3\978664d5763cca5efe7439ffa0a4b1a3\transformed\fragment-1.5.4\res
+com.example.android.marsphotos.app-drawerlayout-1.1.1-26 C:\Users\GAMING 3i\.gradle\caches\transforms-3\99ad704a7ee2e41e6e070622e01c3a1b\transformed\drawerlayout-1.1.1\res
+com.example.android.marsphotos.app-jetified-fragment-ktx-1.5.4-27 C:\Users\GAMING 3i\.gradle\caches\transforms-3\a62627636ce183fb1dc26a3f9e549a25\transformed\jetified-fragment-ktx-1.5.4\res
+com.example.android.marsphotos.app-jetified-savedstate-ktx-1.2.0-28 C:\Users\GAMING 3i\.gradle\caches\transforms-3\aa4652df360dc3381d394b8683101224\transformed\jetified-savedstate-ktx-1.2.0\res
+com.example.android.marsphotos.app-navigation-ui-ktx-2.5.3-29 C:\Users\GAMING 3i\.gradle\caches\transforms-3\aa79e2637a62100916328f376e2fef6e\transformed\navigation-ui-ktx-2.5.3\res
+com.example.android.marsphotos.app-jetified-window-1.0.0-30 C:\Users\GAMING 3i\.gradle\caches\transforms-3\ad8c9cb1deea0ee229066ed11bee885a\transformed\jetified-window-1.0.0\res
+com.example.android.marsphotos.app-jetified-savedstate-1.2.0-31 C:\Users\GAMING 3i\.gradle\caches\transforms-3\b0619272c875524741a11f9890528a99\transformed\jetified-savedstate-1.2.0\res
+com.example.android.marsphotos.app-coordinatorlayout-1.1.0-32 C:\Users\GAMING 3i\.gradle\caches\transforms-3\b72332de79dd5e8dd08507cee3ccc0b8\transformed\coordinatorlayout-1.1.0\res
+com.example.android.marsphotos.app-navigation-common-ktx-2.5.3-33 C:\Users\GAMING 3i\.gradle\caches\transforms-3\be0f6a7365b255e8338838116e48cfd2\transformed\navigation-common-ktx-2.5.3\res
+com.example.android.marsphotos.app-databinding-adapters-7.3.1-34 C:\Users\GAMING 3i\.gradle\caches\transforms-3\c756bbe4cf8b60321d9ef19e12857efd\transformed\databinding-adapters-7.3.1\res
+com.example.android.marsphotos.app-navigation-runtime-ktx-2.5.3-35 C:\Users\GAMING 3i\.gradle\caches\transforms-3\cf7e0a0eba9c78d96204aa6c0b68f886\transformed\navigation-runtime-ktx-2.5.3\res
+com.example.android.marsphotos.app-navigation-common-2.5.3-36 C:\Users\GAMING 3i\.gradle\caches\transforms-3\d5281cebb770268ae3de5e48a3b5159d\transformed\navigation-common-2.5.3\res
+com.example.android.marsphotos.app-jetified-emoji2-views-helper-1.2.0-37 C:\Users\GAMING 3i\.gradle\caches\transforms-3\d85a27a471ed61f28ddbd75f62fa5b98\transformed\jetified-emoji2-views-helper-1.2.0\res
+com.example.android.marsphotos.app-jetified-lifecycle-viewmodel-savedstate-2.5.1-38 C:\Users\GAMING 3i\.gradle\caches\transforms-3\dc6964f3be539662a6533b2df785bfb6\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\res
+com.example.android.marsphotos.app-appcompat-1.5.1-39 C:\Users\GAMING 3i\.gradle\caches\transforms-3\ddeee9ab5757d1ccec315890d882a4dd\transformed\appcompat-1.5.1\res
+com.example.android.marsphotos.app-navigation-runtime-2.5.3-40 C:\Users\GAMING 3i\.gradle\caches\transforms-3\e046d5f8ae54298cec676168df7dfc63\transformed\navigation-runtime-2.5.3\res
+com.example.android.marsphotos.app-slidingpanelayout-1.2.0-41 C:\Users\GAMING 3i\.gradle\caches\transforms-3\eb7ebb33acb66e616beb6b86dfa49d91\transformed\slidingpanelayout-1.2.0\res
+com.example.android.marsphotos.app-cardview-1.0.0-42 C:\Users\GAMING 3i\.gradle\caches\transforms-3\efb4296e9b311adbf853abc2983fae8d\transformed\cardview-1.0.0\res
+com.example.android.marsphotos.app-recyclerview-1.1.0-43 C:\Users\GAMING 3i\.gradle\caches\transforms-3\f0469219f3e8333902df2c61318b7b04\transformed\recyclerview-1.1.0\res
+com.example.android.marsphotos.app-databinding-runtime-7.3.1-44 C:\Users\GAMING 3i\.gradle\caches\transforms-3\fbdc1b57db1307d4ec0c7864440233f3\transformed\databinding-runtime-7.3.1\res
+com.example.android.marsphotos.app-pngs-45 E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\build\generated\res\pngs\debug
+com.example.android.marsphotos.app-resValues-46 E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\build\generated\res\resValues\debug
+com.example.android.marsphotos.app-rs-47 E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\build\generated\res\rs\debug
+com.example.android.marsphotos.app-mergeDebugResources-48 E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+com.example.android.marsphotos.app-mergeDebugResources-49 E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+com.example.android.marsphotos.app-merged_res-50 E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\build\intermediates\merged_res\debug
+com.example.android.marsphotos.app-debug-51 E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\debug\res
+com.example.android.marsphotos.app-main-52 E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\res

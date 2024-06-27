@@ -1,0 +1,339 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:18:1-41:12
+MERGED from [androidx.databinding:databinding-adapters:7.3.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\c756bbe4cf8b60321d9ef19e12857efd\transformed\databinding-adapters-7.3.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.databinding:databinding-ktx:7.3.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\87f7e0ad82374fe4e7998f1ee40763f0\transformed\jetified-databinding-ktx-7.3.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.databinding:databinding-runtime:7.3.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\fbdc1b57db1307d4ec0c7864440233f3\transformed\databinding-runtime-7.3.1\AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil:2.2.2] C:\Users\GAMING 3i\.gradle\caches\transforms-3\baf506a2be9ebf286ba6e5d0dbd7679a\transformed\jetified-coil-2.2.2\AndroidManifest.xml:2:1-9:12
+MERGED from [io.coil-kt:coil-base:2.2.2] C:\Users\GAMING 3i\.gradle\caches\transforms-3\4487626520e1b496ba43aca4367a978b\transformed\jetified-coil-base-2.2.2\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] C:\Users\GAMING 3i\.gradle\caches\transforms-3\aa79e2637a62100916328f376e2fef6e\transformed\navigation-ui-ktx-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.5.3] C:\Users\GAMING 3i\.gradle\caches\transforms-3\7cabf8cb874b051a9dd96ace05daf765\transformed\navigation-ui-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.7.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\69c281fe64dfc435eb346c509a4d7488\transformed\material-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\GAMING 3i\.gradle\caches\transforms-3\875fc1e254ca9f758297c6afc1d04e0b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\8374120fa7f25b28391962ca84225800\transformed\jetified-appcompat-resources-1.5.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\ddeee9ab5757d1ccec315890d882a4dd\transformed\appcompat-1.5.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\1649829a59b9152452180ab0a396852f\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] C:\Users\GAMING 3i\.gradle\caches\transforms-3\64dfd023a1aaeff299f37b8e505f8405\transformed\navigation-fragment-ktx-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] C:\Users\GAMING 3i\.gradle\caches\transforms-3\387d42200b1c0e37fe60fb82c19e63b8\transformed\navigation-fragment-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] C:\Users\GAMING 3i\.gradle\caches\transforms-3\a62627636ce183fb1dc26a3f9e549a25\transformed\jetified-fragment-ktx-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\GAMING 3i\.gradle\caches\transforms-3\978664d5763cca5efe7439ffa0a4b1a3\transformed\fragment-1.5.4\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] C:\Users\GAMING 3i\.gradle\caches\transforms-3\cf7e0a0eba9c78d96204aa6c0b68f886\transformed\navigation-runtime-ktx-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] C:\Users\GAMING 3i\.gradle\caches\transforms-3\e046d5f8ae54298cec676168df7dfc63\transformed\navigation-runtime-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\460cf821fea4851eded8ec39eab748b0\transformed\jetified-activity-ktx-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\4eba56c61a01101a348e4dfb3f046f38\transformed\jetified-activity-1.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] C:\Users\GAMING 3i\.gradle\caches\transforms-3\be0f6a7365b255e8338838116e48cfd2\transformed\navigation-common-ktx-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.5.3] C:\Users\GAMING 3i\.gradle\caches\transforms-3\d5281cebb770268ae3de5e48a3b5159d\transformed\navigation-common-2.5.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\797f87b3f581c7f57595c99d3cd801f9\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\5d82b77b4c6d06cf239d956d9387d734\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\8e72c7ecb586c0ed72ca5fb905a92fb3\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\a3391dbc22ffb474fc3f8628ab9dc46d\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\38eb41396c885a3c5235d8b3e86bcc13\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\dc6964f3be539662a6533b2df785bfb6\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\151ebb1ee3996d3e050fd434ffe65048\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\eb7ebb33acb66e616beb6b86dfa49d91\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\ad8c9cb1deea0ee229066ed11bee885a\transformed\jetified-window-1.0.0\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\d85a27a471ed61f28ddbd75f62fa5b98\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\99ad704a7ee2e41e6e070622e01c3a1b\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\b72332de79dd5e8dd08507cee3ccc0b8\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\c103bbdb78e95a96f5e0d30e9730a12d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\0c9832392571fce134161f6f4ef16a98\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\f0469219f3e8333902df2c61318b7b04\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\403db0efaaeda3246da8653786771a4d\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\49adb06d44b53f571a6a16a3f5b32b0c\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\2ba7368504ce1b8e8817062b4f8701c3\transformed\transition-1.4.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\926802c0e3417d244ba2405d78b4565c\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\94961a2be70dc48c59f42af1f0953889\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.databinding:viewbinding:7.3.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\8097d2e1ef38d1e03a66f745d1f7b444\transformed\jetified-viewbinding-7.3.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\483b6e168f1aebe55b69fd78bfbec441\transformed\jetified-lifecycle-service-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\70dd18b03bc3475eadf519cfcc165fd3\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\1aa5f4877e22b9151e45402b96992865\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\10e517918180460aa00e5d39c867377e\transformed\lifecycle-livedata-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\aa4652df360dc3381d394b8683101224\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\b0619272c875524741a11f9890528a99\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\1224b443fa637588e1d5cbf050307139\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\cd502e1bc11d3797ee9a34f2235c4d86\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\efb4296e9b311adbf853abc2983fae8d\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\47f56729ed829b0c50a19c018b9ecfcb\transformed\jetified-lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\61bcd45c38c062d4ae56d2cc7ab2af3a\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\3d82087fdf34853023bd6442c27398ed\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\61e442695d0c61fb8607c1f212a4cdf1\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\a22cfde653a94284441924da491881b8\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\GAMING 3i\.gradle\caches\transforms-3\dd3135a2da9c9b7d28fd6f4a5c824439\transformed\exifinterface-1.3.3\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\046aee73c158a377190c5a7eb455770b\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\5048e23522cc2218c2944cbc83b011ec\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\f2e32e3e13586785a0a90107ddca3303\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\49953057b5a76cc863262a993e5a5d99\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:18:1-41:12
+INJECTED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:18:1-41:12
+	package
+		ADDED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:19:5-45
+		INJECTED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml
+		INJECTED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml
+		ADDED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:18:1-41:12
+		INJECTED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml
+		ADDED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:18:1-41:12
+		INJECTED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:18:11-69
+uses-permission#android.permission.INTERNET
+ADDED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:22:22-64
+application
+ADDED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:24:5-39:19
+MERGED from [com.google.android.material:material:1.7.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\69c281fe64dfc435eb346c509a4d7488\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.7.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\69c281fe64dfc435eb346c509a4d7488\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\GAMING 3i\.gradle\caches\transforms-3\875fc1e254ca9f758297c6afc1d04e0b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\GAMING 3i\.gradle\caches\transforms-3\875fc1e254ca9f758297c6afc1d04e0b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.window:window:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\ad8c9cb1deea0ee229066ed11bee885a\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\ad8c9cb1deea0ee229066ed11bee885a\transformed\jetified-window-1.0.0\AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\94961a2be70dc48c59f42af1f0953889\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\94961a2be70dc48c59f42af1f0953889\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\70dd18b03bc3475eadf519cfcc165fd3\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\70dd18b03bc3475eadf519cfcc165fd3\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\61e442695d0c61fb8607c1f212a4cdf1\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\61e442695d0c61fb8607c1f212a4cdf1\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:29:9-35
+	android:label
+		ADDED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:27:9-41
+	android:roundIcon
+		ADDED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:28:9-54
+	android:icon
+		ADDED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:26:9-43
+	android:allowBackup
+		ADDED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:25:9-35
+	android:theme
+		ADDED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:30:9-48
+activity#com.example.android.marsphotos.MainActivity
+ADDED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:31:9-38:20
+	android:exported
+		ADDED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:32:13-36
+	android:name
+		ADDED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:31:19-77
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:33:13-37:29
+action#android.intent.action.MAIN
+ADDED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:34:17-69
+	android:name
+		ADDED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:34:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:36:17-77
+	android:name
+		ADDED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:36:27-74
+uses-sdk
+INJECTED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml
+INJECTED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.3.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\c756bbe4cf8b60321d9ef19e12857efd\transformed\databinding-adapters-7.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-adapters:7.3.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\c756bbe4cf8b60321d9ef19e12857efd\transformed\databinding-adapters-7.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-ktx:7.3.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\87f7e0ad82374fe4e7998f1ee40763f0\transformed\jetified-databinding-ktx-7.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-ktx:7.3.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\87f7e0ad82374fe4e7998f1ee40763f0\transformed\jetified-databinding-ktx-7.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-runtime:7.3.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\fbdc1b57db1307d4ec0c7864440233f3\transformed\databinding-runtime-7.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-runtime:7.3.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\fbdc1b57db1307d4ec0c7864440233f3\transformed\databinding-runtime-7.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil:2.2.2] C:\Users\GAMING 3i\.gradle\caches\transforms-3\baf506a2be9ebf286ba6e5d0dbd7679a\transformed\jetified-coil-2.2.2\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil:2.2.2] C:\Users\GAMING 3i\.gradle\caches\transforms-3\baf506a2be9ebf286ba6e5d0dbd7679a\transformed\jetified-coil-2.2.2\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:2.2.2] C:\Users\GAMING 3i\.gradle\caches\transforms-3\4487626520e1b496ba43aca4367a978b\transformed\jetified-coil-base-2.2.2\AndroidManifest.xml:5:5-7:41
+MERGED from [io.coil-kt:coil-base:2.2.2] C:\Users\GAMING 3i\.gradle\caches\transforms-3\4487626520e1b496ba43aca4367a978b\transformed\jetified-coil-base-2.2.2\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] C:\Users\GAMING 3i\.gradle\caches\transforms-3\aa79e2637a62100916328f376e2fef6e\transformed\navigation-ui-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.5.3] C:\Users\GAMING 3i\.gradle\caches\transforms-3\aa79e2637a62100916328f376e2fef6e\transformed\navigation-ui-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.3] C:\Users\GAMING 3i\.gradle\caches\transforms-3\7cabf8cb874b051a9dd96ace05daf765\transformed\navigation-ui-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.5.3] C:\Users\GAMING 3i\.gradle\caches\transforms-3\7cabf8cb874b051a9dd96ace05daf765\transformed\navigation-ui-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.7.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\69c281fe64dfc435eb346c509a4d7488\transformed\material-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.7.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\69c281fe64dfc435eb346c509a4d7488\transformed\material-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\GAMING 3i\.gradle\caches\transforms-3\875fc1e254ca9f758297c6afc1d04e0b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\GAMING 3i\.gradle\caches\transforms-3\875fc1e254ca9f758297c6afc1d04e0b\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\8374120fa7f25b28391962ca84225800\transformed\jetified-appcompat-resources-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\8374120fa7f25b28391962ca84225800\transformed\jetified-appcompat-resources-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\ddeee9ab5757d1ccec315890d882a4dd\transformed\appcompat-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\ddeee9ab5757d1ccec315890d882a4dd\transformed\appcompat-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\1649829a59b9152452180ab0a396852f\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\1649829a59b9152452180ab0a396852f\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] C:\Users\GAMING 3i\.gradle\caches\transforms-3\64dfd023a1aaeff299f37b8e505f8405\transformed\navigation-fragment-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.5.3] C:\Users\GAMING 3i\.gradle\caches\transforms-3\64dfd023a1aaeff299f37b8e505f8405\transformed\navigation-fragment-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] C:\Users\GAMING 3i\.gradle\caches\transforms-3\387d42200b1c0e37fe60fb82c19e63b8\transformed\navigation-fragment-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.5.3] C:\Users\GAMING 3i\.gradle\caches\transforms-3\387d42200b1c0e37fe60fb82c19e63b8\transformed\navigation-fragment-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] C:\Users\GAMING 3i\.gradle\caches\transforms-3\a62627636ce183fb1dc26a3f9e549a25\transformed\jetified-fragment-ktx-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.4] C:\Users\GAMING 3i\.gradle\caches\transforms-3\a62627636ce183fb1dc26a3f9e549a25\transformed\jetified-fragment-ktx-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\GAMING 3i\.gradle\caches\transforms-3\978664d5763cca5efe7439ffa0a4b1a3\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.4] C:\Users\GAMING 3i\.gradle\caches\transforms-3\978664d5763cca5efe7439ffa0a4b1a3\transformed\fragment-1.5.4\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] C:\Users\GAMING 3i\.gradle\caches\transforms-3\cf7e0a0eba9c78d96204aa6c0b68f886\transformed\navigation-runtime-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.5.3] C:\Users\GAMING 3i\.gradle\caches\transforms-3\cf7e0a0eba9c78d96204aa6c0b68f886\transformed\navigation-runtime-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] C:\Users\GAMING 3i\.gradle\caches\transforms-3\e046d5f8ae54298cec676168df7dfc63\transformed\navigation-runtime-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.5.3] C:\Users\GAMING 3i\.gradle\caches\transforms-3\e046d5f8ae54298cec676168df7dfc63\transformed\navigation-runtime-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\460cf821fea4851eded8ec39eab748b0\transformed\jetified-activity-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\460cf821fea4851eded8ec39eab748b0\transformed\jetified-activity-ktx-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\4eba56c61a01101a348e4dfb3f046f38\transformed\jetified-activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\4eba56c61a01101a348e4dfb3f046f38\transformed\jetified-activity-1.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] C:\Users\GAMING 3i\.gradle\caches\transforms-3\be0f6a7365b255e8338838116e48cfd2\transformed\navigation-common-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.5.3] C:\Users\GAMING 3i\.gradle\caches\transforms-3\be0f6a7365b255e8338838116e48cfd2\transformed\navigation-common-ktx-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] C:\Users\GAMING 3i\.gradle\caches\transforms-3\d5281cebb770268ae3de5e48a3b5159d\transformed\navigation-common-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.5.3] C:\Users\GAMING 3i\.gradle\caches\transforms-3\d5281cebb770268ae3de5e48a3b5159d\transformed\navigation-common-2.5.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\797f87b3f581c7f57595c99d3cd801f9\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\797f87b3f581c7f57595c99d3cd801f9\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\5d82b77b4c6d06cf239d956d9387d734\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\5d82b77b4c6d06cf239d956d9387d734\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\8e72c7ecb586c0ed72ca5fb905a92fb3\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\8e72c7ecb586c0ed72ca5fb905a92fb3\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\a3391dbc22ffb474fc3f8628ab9dc46d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\a3391dbc22ffb474fc3f8628ab9dc46d\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\38eb41396c885a3c5235d8b3e86bcc13\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\38eb41396c885a3c5235d8b3e86bcc13\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\dc6964f3be539662a6533b2df785bfb6\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\dc6964f3be539662a6533b2df785bfb6\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\151ebb1ee3996d3e050fd434ffe65048\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\151ebb1ee3996d3e050fd434ffe65048\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\eb7ebb33acb66e616beb6b86dfa49d91\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\eb7ebb33acb66e616beb6b86dfa49d91\transformed\slidingpanelayout-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\ad8c9cb1deea0ee229066ed11bee885a\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\ad8c9cb1deea0ee229066ed11bee885a\transformed\jetified-window-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\d85a27a471ed61f28ddbd75f62fa5b98\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\d85a27a471ed61f28ddbd75f62fa5b98\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\99ad704a7ee2e41e6e070622e01c3a1b\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\99ad704a7ee2e41e6e070622e01c3a1b\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\b72332de79dd5e8dd08507cee3ccc0b8\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\b72332de79dd5e8dd08507cee3ccc0b8\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\c103bbdb78e95a96f5e0d30e9730a12d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\c103bbdb78e95a96f5e0d30e9730a12d\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\0c9832392571fce134161f6f4ef16a98\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\0c9832392571fce134161f6f4ef16a98\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\f0469219f3e8333902df2c61318b7b04\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\f0469219f3e8333902df2c61318b7b04\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\403db0efaaeda3246da8653786771a4d\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\403db0efaaeda3246da8653786771a4d\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\49adb06d44b53f571a6a16a3f5b32b0c\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\49adb06d44b53f571a6a16a3f5b32b0c\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\2ba7368504ce1b8e8817062b4f8701c3\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\2ba7368504ce1b8e8817062b4f8701c3\transformed\transition-1.4.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\926802c0e3417d244ba2405d78b4565c\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\926802c0e3417d244ba2405d78b4565c\transformed\jetified-core-ktx-1.9.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\94961a2be70dc48c59f42af1f0953889\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\94961a2be70dc48c59f42af1f0953889\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.3.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\8097d2e1ef38d1e03a66f745d1f7b444\transformed\jetified-viewbinding-7.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:viewbinding:7.3.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\8097d2e1ef38d1e03a66f745d1f7b444\transformed\jetified-viewbinding-7.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\483b6e168f1aebe55b69fd78bfbec441\transformed\jetified-lifecycle-service-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\483b6e168f1aebe55b69fd78bfbec441\transformed\jetified-lifecycle-service-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\70dd18b03bc3475eadf519cfcc165fd3\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\70dd18b03bc3475eadf519cfcc165fd3\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\1aa5f4877e22b9151e45402b96992865\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\1aa5f4877e22b9151e45402b96992865\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\10e517918180460aa00e5d39c867377e\transformed\lifecycle-livedata-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\10e517918180460aa00e5d39c867377e\transformed\lifecycle-livedata-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\aa4652df360dc3381d394b8683101224\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\aa4652df360dc3381d394b8683101224\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\b0619272c875524741a11f9890528a99\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\b0619272c875524741a11f9890528a99\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\1224b443fa637588e1d5cbf050307139\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\1224b443fa637588e1d5cbf050307139\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\cd502e1bc11d3797ee9a34f2235c4d86\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\cd502e1bc11d3797ee9a34f2235c4d86\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\efb4296e9b311adbf853abc2983fae8d\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\efb4296e9b311adbf853abc2983fae8d\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\47f56729ed829b0c50a19c018b9ecfcb\transformed\jetified-lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\47f56729ed829b0c50a19c018b9ecfcb\transformed\jetified-lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\61bcd45c38c062d4ae56d2cc7ab2af3a\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\61bcd45c38c062d4ae56d2cc7ab2af3a\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\3d82087fdf34853023bd6442c27398ed\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\3d82087fdf34853023bd6442c27398ed\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\61e442695d0c61fb8607c1f212a4cdf1\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\61e442695d0c61fb8607c1f212a4cdf1\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\a22cfde653a94284441924da491881b8\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\a22cfde653a94284441924da491881b8\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\GAMING 3i\.gradle\caches\transforms-3\dd3135a2da9c9b7d28fd6f4a5c824439\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.exifinterface:exifinterface:1.3.3] C:\Users\GAMING 3i\.gradle\caches\transforms-3\dd3135a2da9c9b7d28fd6f4a5c824439\transformed\exifinterface-1.3.3\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\046aee73c158a377190c5a7eb455770b\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\046aee73c158a377190c5a7eb455770b\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\5048e23522cc2218c2944cbc83b011ec\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\5048e23522cc2218c2944cbc83b011ec\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\f2e32e3e13586785a0a90107ddca3303\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\f2e32e3e13586785a0a90107ddca3303\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\49953057b5a76cc863262a993e5a5d99\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\49953057b5a76cc863262a993e5a5d99\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml
+INJECTED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml
+		ADDED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml
+		INJECTED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml
+		ADDED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml
+		INJECTED from E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\ad8c9cb1deea0ee229066ed11bee885a\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\ad8c9cb1deea0ee229066ed11bee885a\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\ad8c9cb1deea0ee229066ed11bee885a\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\ad8c9cb1deea0ee229066ed11bee885a\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\ad8c9cb1deea0ee229066ed11bee885a\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\ad8c9cb1deea0ee229066ed11bee885a\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\70dd18b03bc3475eadf519cfcc165fd3\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\70dd18b03bc3475eadf519cfcc165fd3\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\61e442695d0c61fb8607c1f212a4cdf1\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\61e442695d0c61fb8607c1f212a4cdf1\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+permission#com.example.android.marsphotos.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+uses-permission#com.example.android.marsphotos.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\70dd18b03bc3475eadf519cfcc165fd3\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\70dd18b03bc3475eadf519cfcc165fd3\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\70dd18b03bc3475eadf519cfcc165fd3\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78

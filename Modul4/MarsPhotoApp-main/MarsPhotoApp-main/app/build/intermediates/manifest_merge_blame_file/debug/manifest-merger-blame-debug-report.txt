@@ -1,0 +1,116 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<!--
+3  ~ Copyright (C) 2021 The Android Open Source Project.
+4  ~
+5  ~ Licensed under the Apache License, Version 2.0 (the "License");
+6  ~ you may not use this file except in compliance with the License.
+7  ~ You may obtain a copy of the License at
+8  ~
+9  ~     http://www.apache.org/licenses/LICENSE-2.0
+10  ~
+11  ~ Unless required by applicable law or agreed to in writing, software
+12  ~ distributed under the License is distributed on an "AS IS" BASIS,
+13  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+14  ~ See the License for the specific language governing permissions and
+15  ~ limitations under the License.
+16-->
+17<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+18    package="com.example.android.marsphotos"
+19    android:versionCode="1"
+20    android:versionName="1.0" >
+21
+22    <uses-sdk
+23        android:minSdkVersion="21"
+23-->E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml
+24        android:targetSdkVersion="33" />
+24-->E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml
+25
+26    <!-- In order for our app to access the Internet, we need to define this permission. -->
+27    <uses-permission android:name="android.permission.INTERNET" />
+27-->E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:22:5-67
+27-->E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:22:22-64
+28
+29    <permission
+29-->[androidx.core:core:1.9.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+30        android:name="com.example.android.marsphotos.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+30-->[androidx.core:core:1.9.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+31        android:protectionLevel="signature" />
+31-->[androidx.core:core:1.9.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+32
+33    <uses-permission android:name="com.example.android.marsphotos.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+33-->[androidx.core:core:1.9.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+33-->[androidx.core:core:1.9.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+34
+35    <application
+35-->E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:24:5-39:19
+36        android:allowBackup="true"
+36-->E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:25:9-35
+37        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+37-->[androidx.core:core:1.9.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\47e75a404d7618472fa98307c0f92e7c\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+38        android:debuggable="true"
+39        android:icon="@mipmap/ic_launcher"
+39-->E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:26:9-43
+40        android:label="@string/app_name"
+40-->E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:27:9-41
+41        android:roundIcon="@mipmap/ic_launcher_round"
+41-->E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:28:9-54
+42        android:supportsRtl="true"
+42-->E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:29:9-35
+43        android:testOnly="true"
+44        android:theme="@style/Theme.MarsPhotos" >
+44-->E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:30:9-48
+45        <activity
+45-->E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:31:9-38:20
+46            android:name="com.example.android.marsphotos.MainActivity"
+46-->E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:31:19-77
+47            android:exported="true" >
+47-->E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:32:13-36
+48            <intent-filter>
+48-->E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:33:13-37:29
+49                <action android:name="android.intent.action.MAIN" />
+49-->E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:34:17-69
+49-->E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:34:25-66
+50
+51                <category android:name="android.intent.category.LAUNCHER" />
+51-->E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:36:17-77
+51-->E:\KULIAH\SEMESTER 4\PEMROGRAMAN MOBILE\LAPRAK\Modul4\MarsPhotoApp-main\MarsPhotoApp-main\app\src\main\AndroidManifest.xml:36:27-74
+52            </intent-filter>
+53        </activity>
+54
+55        <uses-library
+55-->[androidx.window:window:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\ad8c9cb1deea0ee229066ed11bee885a\transformed\jetified-window-1.0.0\AndroidManifest.xml:25:9-27:40
+56            android:name="androidx.window.extensions"
+56-->[androidx.window:window:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\ad8c9cb1deea0ee229066ed11bee885a\transformed\jetified-window-1.0.0\AndroidManifest.xml:26:13-54
+57            android:required="false" />
+57-->[androidx.window:window:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\ad8c9cb1deea0ee229066ed11bee885a\transformed\jetified-window-1.0.0\AndroidManifest.xml:27:13-37
+58        <uses-library
+58-->[androidx.window:window:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\ad8c9cb1deea0ee229066ed11bee885a\transformed\jetified-window-1.0.0\AndroidManifest.xml:28:9-30:40
+59            android:name="androidx.window.sidecar"
+59-->[androidx.window:window:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\ad8c9cb1deea0ee229066ed11bee885a\transformed\jetified-window-1.0.0\AndroidManifest.xml:29:13-51
+60            android:required="false" />
+60-->[androidx.window:window:1.0.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\ad8c9cb1deea0ee229066ed11bee885a\transformed\jetified-window-1.0.0\AndroidManifest.xml:30:13-37
+61
+62        <provider
+62-->[androidx.emoji2:emoji2:1.2.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+63            android:name="androidx.startup.InitializationProvider"
+63-->[androidx.emoji2:emoji2:1.2.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+64            android:authorities="com.example.android.marsphotos.androidx-startup"
+64-->[androidx.emoji2:emoji2:1.2.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+65            android:exported="false" >
+65-->[androidx.emoji2:emoji2:1.2.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+66            <meta-data
+66-->[androidx.emoji2:emoji2:1.2.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+67                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+67-->[androidx.emoji2:emoji2:1.2.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+68                android:value="androidx.startup" />
+68-->[androidx.emoji2:emoji2:1.2.0] C:\Users\GAMING 3i\.gradle\caches\transforms-3\314ba8be9db1ccc3474997f291969edb\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+69            <meta-data
+69-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\70dd18b03bc3475eadf519cfcc165fd3\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+70                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+70-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\70dd18b03bc3475eadf519cfcc165fd3\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+71                android:value="androidx.startup" />
+71-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\GAMING 3i\.gradle\caches\transforms-3\70dd18b03bc3475eadf519cfcc165fd3\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+72        </provider>
+73    </application>
+74
+75</manifest>

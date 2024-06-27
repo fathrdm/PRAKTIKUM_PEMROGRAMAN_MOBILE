@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.example.android.marsphotos.app-mergeDebugResources-49:/layout/fragment_overview.xml",
+        "source": "com.example.android.marsphotos.app-main-52:/layout/fragment_overview.xml"
+    },
+    {
+        "merged": "com.example.android.marsphotos.app-mergeDebugResources-49:/layout/grid_view_item.xml",
+        "source": "com.example.android.marsphotos.app-main-52:/layout/grid_view_item.xml"
+    }
+]
